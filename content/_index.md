@@ -2,8 +2,28 @@
 title: Home
 ---
 
-[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-ivy)
+[<img src="https://github.com/GiaLuQuant/myBlog/blob/main/MyPhoto.jpeg?raw=true" style="max-width:15%;min-width:40px;float:right;" alt="MyPhoto" />](/Users/luzhiming/000我/sysu/自己/website/blog/)
 
-This Hugo theme was ported from [Ivy](https://github.com/dmulholland/ivy), a minimalist website generator built in Python. I don't have time to document it. You have to read the source code to understand what it can do. Like Ivy, this theme is also released under [the Unlicense](https://en.wikipedia.org/wiki/Unlicense), which basically means you just do whatever you want.
 
-All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g., [posts](/post/), or [notes](/note/).
+
+Welcome! 
+
+I am an M.S student in Psychology at Sun Yat-sen University. 
+
+I mainly work in **Quantitative Methodology** in Social Sciences.
+[body]
+
+**Research Interests**
+
+- Causal Inference in Mediation
+- Moderated Mediation
+- Mediation Meta-analysis
+
+**Manuscripts under Review**
+
+**Invited Talks**
+
+
+
+
+
